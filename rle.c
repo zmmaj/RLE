@@ -1,8 +1,8 @@
 /*
- * Copyright (c) 2026 <tvoje ime>
+ * Copyright (c) 2026 Zmaj
  * All rights reserved.
  *
- * ... (ista BSD licenca kao gore)
+ 
  */
 
 /** @addtogroup rle
