@@ -2,7 +2,7 @@
 
 Run-Length Encoding (RLE) biblioteka za  **SrBin OS**.
 
-Namijenjena za kompresiju slika u memoriji — idealna za **undo/redo** i **čuvanje crteža** u aplikacijama kao što je [Bojanka](../app/paint).
+Namijenjena za kompresiju slika u memoriji — idealna za **undo/redo** i **čuvanje crteža** u aplikacijama kao što je [Bojanka](https://github.com/zmmaj/Bojanka).
 
 ---
 
