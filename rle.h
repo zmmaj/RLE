@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2026 <tvoje ime>
+ * Copyright (c) 2026 zmaj
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
